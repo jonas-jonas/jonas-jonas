@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I enjoy working with the web, am not afraid of new things and share stuff I figure out while learning.
+
 <!--
 **jonas-jonas/jonas-jonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
